@@ -1,6 +1,6 @@
 (function(w, d){
 
-    // Build html
+    // Build htmlutje
     var html = '<div class="container"><div onclick="javascript:xb_adaptive_close();"';
     html += '<h1>window</h1>';
     html += '</div></div>';
