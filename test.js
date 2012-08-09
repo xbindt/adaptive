@@ -1,7 +1,7 @@
 (function(w, d){
 
     // Build htmlutje
-    var html = '<div class="xb_adaptive_container"><div onclick="javascript:xb_adaptive_close();"';
+    var html = '<div class="xb_adaptive_container"><div onclick="javascript:xb_adaptive_close();">';
     html += '<h1>window</h1>';
     html += '</div></div>';
 
